@@ -1,0 +1,8 @@
+{
+  "name": "classwin-editor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:classwin/classwin-editor.git",
+  "author": "ak1103dev <ak.apichan1103@gmail.com>",
+  "license": "MIT"
+}
